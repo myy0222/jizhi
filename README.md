@@ -29,6 +29,11 @@ A Chrome/Firefox extension with custom new tab page featuring Chinese poems and 
 - 显示全诗并相应修改布局；
 - 更改默认搜索引擎为古诗文网
 
+## 修改截图
+![jizhi (1)](https://user-images.githubusercontent.com/61415309/114045388-90772b00-98ba-11eb-9b9b-9bcedb9e8022.png)
+![jizhi](https://user-images.githubusercontent.com/61415309/114045410-940ab200-98ba-11eb-9278-39307eaae4e6.png)
+
+
 ## 中文字体说明
 
 几枝目前使用了以下几种字体：
