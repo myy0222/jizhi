@@ -58,8 +58,7 @@ const Search = styled.div`
 const VersesContent = (props) => {
   const {
     verses: {
-      content,
-      origin: { author, title },
+      origin: { author, title, content },
     },
     engineOption,
     isVertical,
