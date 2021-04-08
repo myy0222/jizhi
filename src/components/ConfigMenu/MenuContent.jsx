@@ -64,8 +64,8 @@ const MenuContent = (props) => {
     },
     { label: 'Baidu', value: 'https://www.baidu.com/s?wd=' },
     {
-      label: 'Bing',
-      value: 'https://www.bing.com/search?q=',
+      label: 'Gushiwen',
+      value: 'https://so.gushiwen.cn/search.aspx?value=',
     },
   ];
 
