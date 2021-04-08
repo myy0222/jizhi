@@ -5,8 +5,8 @@ import styled, { css } from 'styled-components';
 import { pureWords } from '../../utils';
 
 const Content = styled.div`
-  font-size: calc(30px + 1vw);
-  width: 80vw;
+  font-size: calc(24px + 1vw);
+  width: 48vw;
   ${(props) =>
     props.isVertical &&
     css`
