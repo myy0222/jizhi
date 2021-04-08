@@ -1,4 +1,5 @@
-# 几枝 | Jizhi
+# 几枝-C | Jizhi-C
+# 原作介绍
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
@@ -12,7 +13,7 @@ A Chrome/Firefox extension with custom new tab page featuring Chinese poems and 
 
 ---
 
-## 相关创意编程（Creative Coding）教程（我参与哒~）
+## 相关创意编程（Creative Coding）教程（原作者参与）
 
 文字版课程搭配 Web IDE，实例多多，干货多多。很可能是中文全网 p5.js 最系统最实用的教程了。对编程和 Web 开发有兴趣的同学可以学学，应该会有不一样的体会和认识，也欢迎帮忙宣传一下：）
 
@@ -24,6 +25,9 @@ A Chrome/Firefox extension with custom new tab page featuring Chinese poems and 
 - [Guest Tutorial #2: Noise Waves in p5.js with Unicar - Youtube](https://www.youtube.com/watch?v=3E8Kt8Sx_x4&t=11s) | [bilibili](https://www.bilibili.com/video/BV1qJ411w7nJ?from=search&seid=11104983032650609196)
 
 ---
+## 修改说明
+- 显示全诗并相应修改布局；
+- 更改默认搜索引擎为古诗文网
 
 ## 中文字体说明
 
@@ -58,7 +62,7 @@ A Chrome/Firefox extension with custom new tab page featuring Chinese poems and 
 ![jizhi-2.1.0 gif](https://github.com/unicar9/jizhi/blob/master/examples/jizhi-2.1.0.gif)
 ![jizhi gif](https://github.com/unicar9/jizhi/blob/master/examples/jizhi.gif)
 
-## 示例 - 最新版 2.4.0
+## 示例 -  2.4.0
 
 ![bg-1](https://github.com/unicar9/jizhi/blob/master/examples/jizhi-2.4.0-1.jpeg)
 ![bg-2](https://github.com/unicar9/jizhi/blob/master/examples/jizhi-2.4.0-2.jpeg)
